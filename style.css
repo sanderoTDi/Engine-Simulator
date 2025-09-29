@@ -16,6 +16,12 @@ body{
     background-position: center;
     border-radius: 50%;
 }
+
+.Pedal{
+    width: 100px;
+    
+}
+
 #speedometer{
     background-image: url('img/speedometer.png');
 }
