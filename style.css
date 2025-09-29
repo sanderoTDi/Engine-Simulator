@@ -1,0 +1,25 @@
+body{
+    background-image: url('img/nurburgring.jpg');
+}
+
+.Container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.Meter{
+    width: 500px;
+    height: 500px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 50%;
+}
+#speedometer{
+    background-image: url('img/speedometer.png');
+}
+
+#tachometer{
+    background-image: url('img/tachometer.png');
+}
