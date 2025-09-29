@@ -29,3 +29,30 @@ body{
 #tachometer{
     background-image: url('img/tachometer.png');
 }
+
+#tachinfo{
+    position: relative;
+    left: 300px;
+    top: -272px;
+    width: 300px;
+    height: 200px;
+    border-radius: 20px;
+    background-color: rgb(0, 0, 0);
+}
+
+#gear{
+    position: absolute;
+    font-size: 100px;
+    color: white;
+    font-family:'Orbitron', sans-serif;
+    margin: 20px;
+}
+
+#rpm{
+    position: absolute;
+    font-size: 50px;
+    margin: 35px;
+    margin-left: 100px;
+    color: white;
+    font-family:'Orbitron', sans-serif;
+}
